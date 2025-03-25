@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 Aorus Elite AX, Intel Core i9-14900KF, AMD Radeon RX 6800
 
+![Portifolio](https://github.com/user-attachments/assets/8f6189f6-1b89-4b58-97d5-87722626cffc)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.2)
